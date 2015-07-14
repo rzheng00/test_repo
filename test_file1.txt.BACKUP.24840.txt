@@ -1,6 +1,0 @@
-this is the first test file1
-<<<<<<< HEAD
-make a change within Master branch
-=======
-makte change when the branch is branch1
->>>>>>> branch1
